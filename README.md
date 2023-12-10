@@ -9,7 +9,7 @@
 ### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
 * git clone https://github.com/0xbitx/DEDSEC_VOUCHER.git
 * cd DEDSEC_VOUCHER
-* pip3 install tabulate pycryptodome
+* chmod +x dedsec-voucher
 * sudo ./dedsec-voucher
 
 ### TESTED ON FOLLOWING
